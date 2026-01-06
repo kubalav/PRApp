@@ -703,8 +703,8 @@
     <string name="syncing_tag_playlist_filter_changes_">همگام‌سازی تغییرات برچسب/پلی‌لیست/فیلتر...</string>
     <string name="syncing_changed_rss_feeds_d">همگام‌سازی فیدهای RSS تغییر کرده: %1$d.</string>
     <string name="syncing">همگام‌سازی</string>
-    <string name="continue_to_next_playlist">ادامه به پلی‌لیست بعدی</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">ادامه به پخش پلی‌لیست بعدی بعد از پخش تمام اپیزودهای پلی‌لیست فعلی</string>
+    <string name="continue_to_the_next_playlist">ادامه به پلی‌لیست بعدی</string>
+    <string name="continue_to_play_the_next_playlist_after_all_episodes_have_been_played_in_current_playlist_">ادامه به پخش پلی‌لیست بعدی بعد از پخش تمام اپیزودهای پلی‌لیست فعلی</string>
     <string name="enable_manual_sorting">فعال کردن مرتب‌سازی دستی</string>
     <string name="open">باز کردن</string>
     <string name="newest_unplayed">جدیدترین پخش نشده</string>
@@ -1006,8 +1006,8 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">اجازه دانلود قدیمی‌ترین قسمت‌های پخش نشده اگر قسمت پخش نشده جدیدتری یافت نشد.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">اجازه دانلود جدیدترین قسمت‌های پخش نشده اگر قسمت پخش نشده قدیمی‌تری یافت نشد.</string>
     <string name="website">وب‌سایت</string>
-    <string name="auto_load_last_played_episode">بارگذاری خودکار آخرین قسمت پخش شده</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">بارگذاری خودکار آخرین قسمت پخش شده در پلی‌لیست در «در حال پخش».</string>
+    <string name="auto_load_the_last_played_episode">بارگذاری خودکار آخرین قسمت پخش شده</string>
+    <string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">بارگذاری خودکار آخرین قسمت پخش شده در پلی‌لیست در «در حال پخش».</string>
     <string name="delete_the_playlist_s">"حذف پلی‌لیست: %s؟"</string>
     <string name="delete_the_tag_s">"حذف برچسب: %s؟"</string>
     <string name="delete_the_episode_filter_s">"حذف فیلتر قسمت: %s؟"</string>
@@ -1202,8 +1202,8 @@
     <string name="send_a_bug_report_with_app_log_">ارسال گزارش خطا با لاگ برنامه.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">توقف به‌روزرسانی «بعدی» به لیست قسمت یا پلی‌لیست در حال پخش؟</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">«بعدی» به لیست قسمت یا پلی‌لیست در حال پخش به‌روزرسانی نمی‌شود.</string>
-    <string name="update_up_next_automatically">به‌روزرسانی خودکار «بعدی»</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">به‌روزرسانی خودکار «بعدی» وقتی لیست قسمت یا پلی‌لیست در حال پخش تغییر یا به‌روزرسانی می‌شود.</string>
+    <string name="update_the_up_next_automatically">به‌روزرسانی خودکار «بعدی»</string>
+    <string name="update_the_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">به‌روزرسانی خودکار «بعدی» وقتی لیست قسمت یا پلی‌لیست در حال پخش تغییر یا به‌روزرسانی می‌شود.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">اگر RSS feed نیاز به احراز هویت دارد، نام کاربری و رمز عبور را زیر وارد کنید. اگر احراز هویت لازم نیست، آن‌ها را خالی بگذارید.</string>
     <string name="play_pause_triple_click">پخش/توقف با سه بار کلیک</string>
     <string name="title_display">نمایش عنوان</string>
@@ -1392,4 +1392,6 @@
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">تایمر خواب به طور موقت هنگام استفاده از Android Auto غیرفعال می‌شود.</string>
     <string name="disable_sleep_timer">غیرفعال کردن تایمر خواب</string>
     <string name="transcript">رونوشت</string>
+    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
 </resources>

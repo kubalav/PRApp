@@ -692,8 +692,8 @@
 	<string name="syncing_radio_station_changes_">"Radiosender-Änderungen werden synchronisiert…"</string>
 	<string name="syncing_podcast_changes_">"Podcast-Änderungen werden synchronisiert…"</string>
 	<string name="syncing">"Synchronisieren…"</string>
-	<string name="continue_to_next_playlist">"Weiter zu nächster Playlist"</string>
-	<string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Nächste Playlist abspielen, nachdem alle Folgen der aktuellen abgespielt wurden."</string>
+	<string name="continue_to_the_next_playlist">"Weiter zu nächster Playlist"</string>
+	<string name="continue_to_play_the_next_playlist_after_all_episodes_have_been_played_in_current_playlist_">"Nächste Playlist abspielen, nachdem alle Folgen der aktuellen abgespielt wurden."</string>
 	<string name="enable_manual_sorting">"Manuelle Sortierung aktivieren"</string>
 	<string name="open">"Öffnen"</string>
 	<string name="newest_unplayed">"Neueste nicht abgespielte Folgen"</string>
@@ -1000,8 +1000,8 @@
 	<string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Herunterladen der ältesten nicht abgespielten Folgen erlauben, wenn keine neueren nicht abgespielten Folgen gefunden wurden.</string>
 	<string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Herunterladen der neuesten nicht abgespielten Folgen erlauben, wenn keine älteren nicht abgespielten Folgen gefunden wurden.</string>
 	<string name="website">Website</string>
-	<string name="auto_load_last_played_episode">Zuletzt wiedergegebene Folge automatisch laden</string>
-	<string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">"Die zuletzt wiedergegebene Folge einer Playlist wird automatisch in die Wiedergabe laden."</string>
+	<string name="auto_load_the_last_played_episode">Zuletzt wiedergegebene Folge automatisch laden</string>
+	<string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">"Die zuletzt wiedergegebene Folge einer Playlist wird automatisch in die Wiedergabe laden."</string>
 	<string name="delete_the_playlist_s">"Diese Playlist löschen: %s?"</string>
 	<string name="delete_the_tag_s">"Diesen Tag löschen: %s?"</string>
 	<string name="delete_the_episode_filter_s">"Diesen Folgenfilter löschen: %s?"</string>
@@ -1196,8 +1196,8 @@
 	<string name="send_a_bug_report_with_app_log_">Sende einen Fehlerbericht mit App-Log.</string>
 	<string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">\"Als Nächstes\" nicht mehr durch die derzeit wiedergegebene Folgen- oder Playliste aktualisieren?</string>
 	<string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">\"Als Nächstes\" wird nicht mehr durch die derzeit wiedergegebene Folgen- oder Playliste aktualisiert.</string>
-	<string name="update_up_next_automatically">\"Als Nächstes\" automatisch aktualisieren</string>
-	<string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">\"Als Nächstes\" automatisch aktualisieren, wenn die derzeit wiedergegebene Folgen- oder Playliste geändert/aktualisiert wird.</string>
+	<string name="update_the_up_next_automatically">\"Als Nächstes\" automatisch aktualisieren</string>
+	<string name="update_the_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">\"Als Nächstes\" automatisch aktualisieren, wenn die derzeit wiedergegebene Folgen- oder Playliste geändert/aktualisiert wird.</string>
 	<string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Gebe unten den Benutzernamen und das Passwort ein, wenn der RSS-Feed eine Authentifizierung erfordert. Lasse es leer, wenn keine Authentifizierung erforderlich ist.</string>
 	<string name="play_pause_triple_click">Wiedergabe/Pause mit Dreifachklick</string>
 	<string name="title_display">Titelanzeige</string>
@@ -1386,4 +1386,6 @@
 	<string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Einschlaf-Timer ist während der Verwendung von Android Auto vorübergehend deaktiviert.</string>
 	<string name="disable_sleep_timer">Einschlaf-Timer deaktivieren</string>
     <string name="transcript">Transkript</string>
+    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
 </resources>

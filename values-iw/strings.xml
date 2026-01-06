@@ -694,8 +694,8 @@
     <string name="syncing_radio_station_changes_">"מסנכרן שינויים במנוי רדיו …"</string>
     <string name="syncing_podcast_changes_">"מסנכרן שינויים בפודקאסט …"</string>
     <string name="syncing">"סנכרון"</string>
-    <string name="continue_to_next_playlist">"המשך לרשימת השמעה הבאה"</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"המשך בהפעלת רשימת ההשמעה הבאה לאחר שהושמעו כל הפרקים ברשימת ההשמעה הנוכחית"</string>
+    <string name="continue_to_the_next_playlist">"המשך לרשימת השמעה הבאה"</string>
+    <string name="continue_to_play_the_next_playlist_after_all_episodes_have_been_played_in_current_playlist_">"המשך בהפעלת רשימת ההשמעה הבאה לאחר שהושמעו כל הפרקים ברשימת ההשמעה הנוכחית"</string>
     <string name="enable_manual_sorting">"הפעל מיון ידני"</string>
     <string name="open">"פתח"</string>
     <string name="newest_unplayed">"החדש ביותר שלא הושמע"</string>
@@ -1002,8 +1002,8 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">אפשר להוריד את הפרקים הישנים ביותר שלא הושמעו אם לא נמצאו פרקים חדשים יותר שלא הושמעו.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">אפשר להוריד את הפרקים החדשים ביותר שלא הושמעו אם לא נמצאו פרקים ישנים יותר שלא הושמעו.</string>
     <string name="website">אתר אינטרנט</string>
-    <string name="auto_load_last_played_episode">טען אוטומטית את הפרק האחרון שהושמע</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">"טען אוטומטית את הפרק האחרון שהושמע ברשימת ההשמעה אל 'מנגן כעת'."</string>
+    <string name="auto_load_the_last_played_episode">טען אוטומטית את הפרק האחרון שהושמע</string>
+    <string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">"טען אוטומטית את הפרק האחרון שהושמע ברשימת ההשמעה אל 'מנגן כעת'."</string>
     <string name="delete_the_playlist_s">"למחוק את רשימת ההשמעה: %s?"</string>
     <string name="delete_the_tag_s">"למחוק את התגית: %s?"</string>
     <string name="delete_the_episode_filter_s">"למחוק את מסנן הפרקים: %s?"</string>
@@ -1198,8 +1198,8 @@
     <string name="send_a_bug_report_with_app_log_">שלח דוח באג עם יומן האפליקציה.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">להפסיק לעדכן את הבא בתור לצד רשימת הפרקים או הפלייליסט המופעלים כעת?</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">הבא בתור אינו מעודכן לרשימת הפרקים או לפלייליסט המופעלים כעת.</string>
-    <string name="update_up_next_automatically">עדכן את הבא בתור אוטומטית</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">עדכן את הבא בתור באופן אוטומטי כאשר רשימת הפרקים או רשימת ההשמעה הנוכחיים משתנים או מתעדכנים.</string>
+    <string name="update_the_up_next_automatically">עדכן את הבא בתור אוטומטית</string>
+    <string name="update_the_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">עדכן את הבא בתור באופן אוטומטי כאשר רשימת הפרקים או רשימת ההשמעה הנוכחיים משתנים או מתעדכנים.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">הזן את שם המשתמש והסיסמה למטה אם הזנת ה-RSS דורשת אימות. השאר ריק אם לא נדרש אימות.</string>
     <string name="play_pause_triple_click">הפעל/השהה קליק משולש</string>
     <string name="title_display">תצוגת כותרת</string>
@@ -1389,4 +1389,6 @@
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Sleep timer is disabled temporarily when using Android Auto.</string>
     <string name="disable_sleep_timer">Disable sleep timer</string>
     <string name="transcript">Transcript</string>
+    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
 </resources>

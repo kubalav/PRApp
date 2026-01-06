@@ -237,9 +237,9 @@
     <string name="network_connection_failed">Tilkobling mislyktes.</string>
     <string name="continue_">Fortsett</string>
     <string name="continue_on_error">Fortsett ved feil</string>
-    <string name="continue_to_next_playlist">Fortsett til neste spilleliste</string>
+    <string name="continue_to_the_next_playlist">Fortsett til neste spilleliste</string>
     <string name="continue_to_play_next_episode_when_playback_error_occurs">Hvis det oppstår en feil ved avspillingen av en episode, spill av neste episode.</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Spiller av episoder fra neste spilleliste når alle episoder i den opprinnelige spillelisten er ferdigspilt.</string>
+    <string name="continue_to_play_the_next_playlist_after_all_episodes_have_been_played_in_current_playlist_">Spiller av episoder fra neste spilleliste når alle episoder i den opprinnelige spillelisten er ferdigspilt.</string>
     <string name="copy_url">Kopier URL</string>
     <string name="country_text">Land/region</string>
     <string name="create_a_backup_of_app_settings_and_database">Oppretter sikkerhetskopi av appinnstillinger og database.</string>
@@ -1002,8 +1002,8 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Allow to download oldest unplayed episodes if no newer unplayed episodes found.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Allow to download newest unplayed episodes if no older unplayed episodes found.</string>
     <string name="website">Website</string>
-    <string name="auto_load_last_played_episode">Auto load last played episode</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Automatically load last played episode in the playlist into \'Now playing\'.</string>
+    <string name="auto_load_the_last_played_episode">Auto load the last played episode</string>
+    <string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">Automatically load the last played episode in the playlist into \'Now playing\'.</string>
     <string name="delete_the_playlist_s">"Delete the playlist: %s?"</string>
     <string name="delete_the_tag_s">"Delete the tag: %s?"</string>
     <string name="delete_the_episode_filter_s">"Delete the episode filter: %s?"</string>
@@ -1198,8 +1198,8 @@
     <string name="send_a_bug_report_with_app_log_">Send a bug report with app log.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Stop updating Up next to currently playing episode list or playlist?</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Up next is not updated to currently playing episode list or playlist.</string>
-    <string name="update_up_next_automatically">Update Up next automatically</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update Up next automatically when currently playing episode list or playlist is changed or updated.</string>
+    <string name="update_the_up_next_automatically">Update the Up next automatically</string>
+    <string name="update_the_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Update the Up next automatically when currently playing episode list or playlist is changed or updated.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Enter the username and password below if the RSS feed requires authentication. Leave them empty if no authentication is required.</string>
     <string name="play_pause_triple_click">Play/Pause triple click</string>
     <string name="title_display">Title display</string>
@@ -1387,4 +1387,6 @@
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Sleep timer is disabled temporarily when using Android Auto.</string>
     <string name="disable_sleep_timer">Disable sleep timer</string>
     <string name="transcript">Transcript</string>
+    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
 </resources>

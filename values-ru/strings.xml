@@ -696,7 +696,7 @@
     <string name="syncing_tag_playlist_filter_changes_">Синхронизация изменений тегов/плейлистов/фильтров…</string>
     <string name="syncing_changed_rss_feeds_d">Синхронизация добавленных RSS-лент: %1$d.</string>
     <string name="syncing">"Синхронизации"</string>
-    <string name="continue_to_next_playlist">"Перейти к следующему плейлисту"</string>
+    <string name="continue_to_the_next_playlist">"Перейти к следующему плейлисту"</string>
     <string name="enable_manual_sorting">"Включить ручную сортировку"</string>
     <string name="open">"Открыть"</string>
     <string name="newest_unplayed">Новейшим непрослушанным</string>
@@ -871,8 +871,8 @@
     <string name="str1_to_str2">"%1$s -> %2$s"</string>
     <string name="_d_db">%1$d dB</string>
     <string name="s1_colon_s2">%1$s: %2$s</string>
-    <string name="auto_load_last_played_episode">Автозагрузка последнего прослушанного выпуска</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Автозагрузка последнего прослушанного выпуска в плейлисте \'Вы слушаете\'.</string>
+    <string name="auto_load_the_last_played_episode">Автозагрузка последнего прослушанного выпуска</string>
+    <string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">Автозагрузка последнего прослушанного выпуска в плейлисте \'Вы слушаете\'.</string>
     <string name="mark_as_played">Отметить как прослушанное</string>
     <string name="mark_as_unplayed">Отметить как непрослушанный</string>
     <string name="there_are_no_radio_stations_">Здесь нет радиостанций!</string>
@@ -1085,7 +1085,7 @@
     <string name="clear_the_recents_list_">Очистить список последних?</string>
     <string name="collapsed_notification_can_have_up_to_three_playback_controls">- Свернутое уведомление может содержать до трех элементов управления воспроизведением.</string>
     <string name="collapsed_notification_short_format">Свернутое</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Перейти к следующему плейлисту после того, как все выпуски в текущем будут прослушаны.</string>
+    <string name="continue_to_play_the_next_playlist_after_all_episodes_have_been_played_in_current_playlist_">Перейти к следующему плейлисту после того, как все выпуски в текущем будут прослушаны.</string>
     <string name="customize_playback_controls_on_collapsed_and_expanded_notifications_">Настрить элементы управления для свернутого и развернутого уведомления.</string>
     <string name="default_playlist">Плейлист по умолчанию</string>
     <string name="delete_the_episode_filter_s">Удалить фильтр выпусков: %s?</string>
@@ -1197,8 +1197,8 @@
     <string name="no_results">Никаких результатов</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Перестать обновлять очередь воспроизведения из текущего списка выпусков или плейлиста?</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Очередь воспроизведения не обновляется из текущего списка выпусков или плейлиста.</string>
-    <string name="update_up_next_automatically">Обновлять очередь воспроизведения автоматически</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Обновление очереди воспроизведения при изменении или обновлении списка выпусков или плейлиста.</string>
+    <string name="update_the_up_next_automatically">Обновлять очередь воспроизведения автоматически</string>
+    <string name="update_the_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Обновление очереди воспроизведения при изменении или обновлении списка выпусков или плейлиста.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Введите имя пользователя и пароль, если RSS-канал требует аутентификации. Оставьте поля пустыми, если аутентификация не требуется.</string>
     <string name="play_pause_triple_click">Тройной щелчок воспроизведения/паузы</string>
     <string name="title_display">Отображение заголовка</string>
@@ -1387,4 +1387,6 @@
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Sleep timer is disabled temporarily when using Android Auto.</string>
     <string name="disable_sleep_timer">Disable sleep timer</string>
     <string name="transcript">Transcript</string>
+    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
 </resources>

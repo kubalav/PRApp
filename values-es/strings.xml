@@ -694,8 +694,8 @@
     <string name="syncing_radio_station_changes_">"Sincronizando los cambios en las suscripciones de radios…"</string>
     <string name="syncing_podcast_changes_">"Sincronizando los cambios en las suscripciones de podcasts…"</string>
     <string name="syncing">"Sincronizando"</string>
-    <string name="continue_to_next_playlist">"Continuar a la siguiente lista de reproducción"</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">"Continúa reproduciendo la siguiente lista de reproducción después de que todos los episodios se hayan reproducido en la lista de reproducción actual."</string>
+    <string name="continue_to_the_next_playlist">"Continuar a la siguiente lista de reproducción"</string>
+    <string name="continue_to_play_the_next_playlist_after_all_episodes_have_been_played_in_current_playlist_">"Continúa reproduciendo la siguiente lista de reproducción después de que todos los episodios se hayan reproducido en la lista de reproducción actual."</string>
     <string name="enable_manual_sorting">"Habilitar clasificación manual"</string>
     <string name="open">"Abrir"</string>
     <string name="newest_unplayed">"El más nuevo sin reproducir"</string>
@@ -1000,8 +1000,8 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Permitir descargar episodios no reproducidos más antiguos si no se encuentran episodios no reproducidos más nuevos.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Permitir descargar los episodios más recientes sin reproducir si no se encuentran episodios anteriores sin reproducir.</string>
     <string name="website">Sitio web</string>
-    <string name="auto_load_last_played_episode">Cargar automáticamente el último episodio reproducido</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Cargar automáticamente el último episodio reproducido en la lista de reproducción en \'Reproduciendo ahora\'.</string>
+    <string name="auto_load_the_last_played_episode">Cargar automáticamente el último episodio reproducido</string>
+    <string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">Cargar automáticamente el último episodio reproducido en la lista de reproducción en \'Reproduciendo ahora\'.</string>
     <string name="delete_the_playlist_s">"¿Eliminar la lista de reproducción: %s?"</string>
     <string name="delete_the_tag_s">"¿Eliminar la etiqueta: %s?"</string>
     <string name="delete_the_episode_filter_s">"¿Eliminar el filtro de episodio: %s?"</string>
@@ -1196,8 +1196,8 @@
     <string name="send_a_bug_report_with_app_log_">Envía un informe de error con el registro de la aplicación.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">¿Dejar de actualizar junto a la lista de episodios o lista de reproducción que se está reproduciendo actualmente?</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">A continuación no se actualiza a la lista de episodios o lista de reproducción que se está reproduciendo actualmente.</string>
-    <string name="update_up_next_automatically">Actualizar a continuación automáticamente</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Actualizar a continuación automáticamente cuando se cambia o actualiza la lista de episodios que se está reproduciendo o la lista de reproducción.</string>
+    <string name="update_the_up_next_automatically">Actualizar a continuación automáticamente</string>
+    <string name="update_the_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Actualizar a continuación automáticamente cuando se cambia o actualiza la lista de episodios que se está reproduciendo o la lista de reproducción.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Ingrese el nombre de usuario y la contraseña a continuación si la fuente RSS requiere autenticación. Déjelos vacíos si no se requiere autenticación.</string>
     <string name="play_pause_triple_click">Reproducir/Pausar triple clic</string>
     <string name="title_display">Visualización de título</string>
@@ -1387,4 +1387,6 @@
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Sleep timer is disabled temporarily when using Android Auto.</string>
     <string name="disable_sleep_timer">Disable sleep timer</string>
     <string name="transcript">Transcript</string>
+    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
 </resources>

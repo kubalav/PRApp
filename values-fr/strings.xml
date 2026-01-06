@@ -699,8 +699,8 @@
     <string name="syncing_radio_station_changes_">Synchroniser les différences des radios ajoutées…</string>
     <string name="syncing_podcast_changes_">Synchroniser les différences des podcasts ajoutés…</string>
     <string name="syncing">Synchroniser</string>
-    <string name="continue_to_next_playlist">Aller à la playlist suivante</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Continuer à lire la playlist suivante après que tous les épisodes de la playlist en cours auront été joués.</string>
+    <string name="continue_to_the_next_playlist">Aller à la playlist suivante</string>
+    <string name="continue_to_play_the_next_playlist_after_all_episodes_have_been_played_in_current_playlist_">Continuer à lire la playlist suivante après que tous les épisodes de la playlist en cours auront été joués.</string>
     <string name="enable_manual_sorting">Activer le tri manuel</string>
     <string name="open">Ouvrir</string>
     <string name="newest_unplayed">Dernière playlist non lue</string>
@@ -1009,8 +1009,8 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">"Autoriser le téléchargement d'anciens épisodes si aucun épisode récents non lu n'a été trouvé."</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">"Autoriser le téléchargement de nouveaux épisodes si aucun ancien épisode non lu n'a été trouvé."</string>
     <string name="website">Site web</string>
-    <string name="auto_load_last_played_episode">Chargement automatique du dernier épisode lu</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">Chargez automatiquement le dernier épisode lu de la playlist dans \'lire maintenant \'.</string>
+    <string name="auto_load_the_last_played_episode">Chargement automatique du dernier épisode lu</string>
+    <string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">Chargez automatiquement le dernier épisode lu de la playlist dans \'lire maintenant \'.</string>
     <string name="delete_the_playlist_s">"Supprimer la playlist: %s?"</string>
     <string name="delete_the_tag_s">"Supprimer le tag: %s?"</string>
     <string name="delete_the_episode_filter_s">"Supprimer l\'episode filtré: %s?"</string>
@@ -1205,8 +1205,8 @@
     <string name="send_a_bug_report_with_app_log_">Envoyez un rapport de bogue avec le journal d\'application.</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">Arrêtez de mettre à jour la liste des épisodes actuelles ou la playlist en cours ?</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">Le prochain n\'est pas mis à jour dans la liste des épisodes en cours ou dans la playlist.</string>
-    <string name="update_up_next_automatically">Mettre à jour le prochain automatiquement</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Mettez à jour automatiquement la liste des épisodes ou la liste des épisodes est modifiée ou mise à jour.</string>
+    <string name="update_the_up_next_automatically">Mettre à jour le prochain automatiquement</string>
+    <string name="update_the_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">Mettez à jour automatiquement la liste des épisodes ou la liste des épisodes est modifiée ou mise à jour.</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Entrez le nom d\'utilisateur et le mot de passe ci-dessous si le flux RSS nécessite une authentification. Laissez-les vides si aucune authentification n\'est requise.</string>
     <string name="play_pause_triple_click">Jouer / pause triple clic</string>
     <string name="title_display">Affichage de titre</string>
@@ -1395,4 +1395,6 @@
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Sleep timer is disabled temporarily when using Android Auto.</string>
     <string name="disable_sleep_timer">Disable sleep timer</string>
     <string name="transcript">Transcript</string>
+    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
 </resources>

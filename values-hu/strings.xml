@@ -698,8 +698,8 @@
     <string name="syncing_radio_station_changes_">Rádióállomások szinkronizálása…</string>
     <string name="syncing_podcast_changes_">Podcastok szinkronizálása…</string>
     <string name="syncing">Szinkronizálás</string>
-    <string name="continue_to_next_playlist">A következő lejátszólista</string>
-    <string name="continue_to_play_next_playlist_after_all_episodes_have_been_played_in_current_playlist">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta</string>
+    <string name="continue_to_the_next_playlist">A következő lejátszólista</string>
+    <string name="continue_to_play_the_next_playlist_after_all_episodes_have_been_played_in_current_playlist_">Folytassa a következő lejátszólista lejátszásával, miután az aktuális lejátszólista összes epizódját lejátszotta</string>
     <string name="enable_manual_sorting">Manuális rendezés engedélyezése</string>
     <string name="open">Megnyitás</string>
     <string name="newest_unplayed">Legújabb nem lejátszott</string>
@@ -1005,8 +1005,8 @@
     <string name="allow_to_download_oldest_unplayed_episodes_if_no_newer_unplayed_episodes_found">Lehetővé teszi a legrégebbi nem lejátszott epizódok letöltését, ha nem található újabb nem lejátszott epizód.</string>
     <string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Lehetővé teszi a legújabb nem lejátszott epizódok letöltését, ha nem található régebbi nem lejátszott epizód.</string>
     <string name="website">Weboldal</string>
-    <string name="auto_load_last_played_episode">Legutóbbi epizód aut. betöltése</string>
-    <string name="automatically_load_last_played_episode_in_the_playlist_into_now_playing">A lejátszólista legutóbb lejátszott epizódjának automatikus betöltése a \"Következő\" listába</string>
+    <string name="auto_load_the_last_played_episode">Legutóbbi epizód aut. betöltése</string>
+    <string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">A lejátszólista legutóbb lejátszott epizódjának automatikus betöltése a \"Következő\" listába</string>
     <string name="delete_the_playlist_s">Törli ezt a lejátszólistát: %s?</string>
     <string name="delete_the_tag_s">Törli ezt a címkét: %s?</string>
     <string name="delete_the_episode_filter_s">Törli az epizód szűrőt: %s?</string>
@@ -1201,8 +1201,8 @@
     <string name="send_a_bug_report_with_app_log_">Hibajelentés küldése alkalmazás naplóval együtt</string>
     <string name="stop_updating_up_next_to_currently_playing_episode_list_or_playlist_">A \"Következő\" lista frissítésének leállítása a jelenleg lejátszott epizódlista vagy lejátszólista mellett?</string>
     <string name="up_next_is_not_updated_to_currently_playing_episode_list_or_playlist_">A \"Következő\" lista nem frissül a jelenleg lejátszott epizódok vagy lejátszólistán.</string>
-    <string name="update_up_next_automatically">\"Következő\" lista aut. frissítése</string>
-    <string name="update_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">A \"Következő\" lista automatikus frissítése, ha az aktuálisan lejátszott epizódlista vagy lejátszólista megváltozik vagy frissül</string>
+    <string name="update_the_up_next_automatically">\"Következő\" lista aut. frissítése</string>
+    <string name="update_the_up_next_automatically_when_currently_playing_episode_list_or_playlist_ischanged_or_updated_">A \"Következő\" lista automatikus frissítése, ha az aktuálisan lejátszott epizódlista vagy lejátszólista megváltozik vagy frissül</string>
     <string name="enter_the_username_and_password_below_if_the_rss_feed_requires_authentication_leave_them_empty_if_no_authentication_is_required">Adja meg a felhasználónevet és a jelszót, ha az RSS-hírcsatorna hitelesítést igényel. Hagyja üresen, ha nincs szükség erre.</string>
     <string name="play_pause_triple_click">Tripla kattintás Lejátszás/Szünet</string>
     <string name="title_display">Cím megjelenése</string>
@@ -1391,4 +1391,6 @@
     <string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Android Auto használata közben az alvóüzemmód ideiglenesen kikapcsol.</string>
     <string name="disable_sleep_timer">Alvó időzítő letiltása</string>
     <string name="transcript">Leirat</string>
+    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
+    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
 </resources>
