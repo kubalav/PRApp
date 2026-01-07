@@ -1001,7 +1001,7 @@
 	<string name="allow_to_download_newest_unplaed_episodes_if_no_older_unplayed_episodes_found">Herunterladen der neuesten nicht abgespielten Folgen erlauben, wenn keine älteren nicht abgespielten Folgen gefunden wurden.</string>
 	<string name="website">Website</string>
 	<string name="auto_load_the_last_played_episode">Zuletzt wiedergegebene Folge automatisch laden</string>
-	<string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">"Die zuletzt wiedergegebene Folge einer Playlist wird automatisch in die Wiedergabe laden."</string>
+	<string name="automatically_load_the_last_played_episode_in_the_playlist_into_now_playing_">"Die zuletzt wiedergegebene Folge einer Playlist wird automatisch in die Wiedergabe geladen."</string>
 	<string name="delete_the_playlist_s">"Diese Playlist löschen: %s?"</string>
 	<string name="delete_the_tag_s">"Diesen Tag löschen: %s?"</string>
 	<string name="delete_the_episode_filter_s">"Diesen Folgenfilter löschen: %s?"</string>
@@ -1385,7 +1385,7 @@
 	<string name="disable_the_sleep_timer_temporarily_when_using_android_auto_">Einschlaf-Timer vorübergehend deaktivieren, wenn Android Auto verwendet wird.</string>
 	<string name="sleep_timer_is_disabled_temporarily_when_using_android_auto_">Einschlaf-Timer ist während der Verwendung von Android Auto vorübergehend deaktiviert.</string>
 	<string name="disable_sleep_timer">Einschlaf-Timer deaktivieren</string>
-    <string name="transcript">Transkript</string>
-    <string name="scroll_to_the_playing_episode">Scroll to the playing episode</string>
-    <string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Scroll to the currently playing episode after the list is loaded.</string>
+	<string name="transcript">Transkript</string>
+	<string name="scroll_to_the_playing_episode">Zur wiedergegebenen Folge scrollen</string>
+	<string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Zur aktuell wiedergegebenen Folge scrollen, wenn die Playlist geladen wurde.</string>
 </resources>
