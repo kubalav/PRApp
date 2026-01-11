@@ -1388,5 +1388,6 @@
 	<string name="transcript">Transkript</string>
 	<string name="scroll_to_the_playing_episode">Zur wiedergegebenen Folge scrollen</string>
 	<string name="scroll_to_the_currently_playing_episode_after_the_list_is_loaded_">Zur aktuell wiedergegebenen Folge scrollen, wenn die Playlist geladen wurde.</string>
-    <string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Mark the current playback position as a chapter after the sleep timer is fired.</string>
+	<string name="mark_the_current_playback_position_as_a_chapter_after_the_sleep_timer_is_fired_">Aktuelle Wiedergabeposition als Kapitelmarke hinzufügen, wenn Einschlaf-Timer endet.</string>
 </resources>
+
